@@ -1,7 +1,6 @@
 
 ###### Do not ignore Rom's Mom
-files/test/*
-files/train/*
+files/*
 
 # Node artifact files
 node_modules/
@@ -63,3 +62,4 @@ venv/
 
 libs/packages/utilities.egg-info/SOURCES.txt
 docker-compose.yml
+transfer_learning/transfer_learning.ipynb
