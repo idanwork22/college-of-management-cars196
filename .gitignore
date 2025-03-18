@@ -1,7 +1,9 @@
 
 ###### Do not ignore Rom's Mom
 files/*
-
+Stanford_Cars_dataset
+Stanford_Cars_dataset/
+Stanford_Cars_dataset/*
 # Node artifact files
 node_modules/
 dist/
